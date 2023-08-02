@@ -1,0 +1,4 @@
+
+[repository]
+	instance = aldmo1
+	release = RDO/Travelsite/TravelWeb(2.0)::$tourly-master
