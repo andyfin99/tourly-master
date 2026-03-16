@@ -1,4 +1,7 @@
 
 [repository]
+	devenvid = 00010789
 	instance = aldmo1
+	pdid = 00024120
 	release = RDO/Travelsite/TravelWeb(2.0)::$tourly-master
+	releaseid = 00010202
